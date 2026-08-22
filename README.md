@@ -2,9 +2,10 @@
 
 Public operator documentation for the Meercata project.
 
-## Available manual
+## Available manuals
 
-- [Meercata v1.00 - Windows Operations Manual (PDF)](manuals/windows/Meercata_Windows_Operations_Manual_v1.00.pdf)
+- [English - Meercata v1.00 Windows Operations Manual (PDF)](manuals/windows/Meercata_Windows_Operations_Manual_v1.00_English.pdf)
+- [Bahasa Melayu - Manual Operasi Meercata v1.00 untuk Windows (PDF)](manuals/windows/Meercata_Windows_Operations_Manual_v1.00.pdf)
 
 The Windows v1.00 source repository is maintained separately and is not included here. The public manual contains operating instructions, troubleshooting guidance, command references, maintenance procedures, and an operator cheat sheet.
 
